@@ -8,7 +8,7 @@ This script use for bypass cloudlfare and get real up :)
 
 ~ `cd R-CloudFlareBypasser`
 
-~ `python3 R-CloudFlareBypasser`
+~ `python3 R-CloudFlareBypasser.py`
 
 
 # Installation-WindowsUser:
@@ -17,7 +17,7 @@ This script use for bypass cloudlfare and get real up :)
 
 ~ `cd R-CloudFlareBypasser`
 
-~ `python R-CloudFlareBypasser`
+~ `python R-CloudFlareBypasser.py`
 
 
 #Requirements:
