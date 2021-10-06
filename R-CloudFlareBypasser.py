@@ -3,7 +3,7 @@ import socket , sys , os
 if "win" in sys.platform:
   os.system("pip install colorama pyfiglet")
 else:
-  os.system("pip3 instal colorama pyfiglet")
+  os.system("pip3 install colorama pyfiglet")
 rd = colorama.Fore.RED
 mag = colorama.Fore.MAGENTA
 cv = colorama.Fore.WHITE
